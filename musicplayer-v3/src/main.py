@@ -298,7 +298,7 @@ def main():
                 screen.fill((30, 30, 30))
 
             # Info de la cancion
-            track_name = player.get_current_track_name() or "No hay musica seleccionada"
+            track_name = player.get_current_track_name() or "No music selected"
 
             # Actualizar portada y marquee si cambia la cancion
             if track_name != last_track_name:
