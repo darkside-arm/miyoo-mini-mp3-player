@@ -10,6 +10,10 @@ Media/Music/
 
 Extract the ZIP file into the App directory.
 
+![Screenshot](uno.png)
+![Screenshot](dos.png)
+![Screenshot](tres.png)
+
 
 # Music Player - Setup Instructions
 
