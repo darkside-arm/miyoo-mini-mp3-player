@@ -15,7 +15,7 @@ Extract the ZIP file into the App directory.
 ![Screenshot](tres.png)
 
 
-# Music Player - Setup Instructions
+# Music Player - Developer Instructions
 
 ## 1. Update apt
 ```sh
