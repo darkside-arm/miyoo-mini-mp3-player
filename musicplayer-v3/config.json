@@ -1,0 +1,6 @@
+{
+	"label":	"Its Minimal Music Player",
+	"icon":	        "icon.png",
+	"launch":	"launch.sh",
+	"description":	"A music player for the miyoo mini"
+}
