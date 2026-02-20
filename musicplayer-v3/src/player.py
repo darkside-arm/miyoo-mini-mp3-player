@@ -188,11 +188,11 @@ class MusicPlayer(object):
         return None
 
     def get_status_text(self):
-        status = "Detenido"
+        status = "Stopped"
         if self.is_paused:
-            status = "Pausado"
+            status = "Paused"
         elif self.is_playing:
-            status = "Reproduciendo"
+            status = "Playing"
         repeat_texts = ["No repeat", "Repeat all", "Repeat this one"]
         return "%s / %s" % (status, repeat_texts[self.repeat_mode])
 
